@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "43c81f5ac66d5a81",
+    "type": "split",
+    "children": [
+      {
+        "id": "c855f508a666bf96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7e39bee0952533",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Схемы проектов/Drawing 2025-02-01 19.20.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 19.20.54.excalidraw"
+            }
+          },
+          {
+            "id": "7eca32e67810d5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Практика реактивного программирования в Spring 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика реактивного программирования в Spring 5"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c757b28f277a1f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a692e73029d595ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6c085b1f19d907",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a99020ada4e657c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c17bd17933cf17f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f3b3f5df8d2932e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50710a800eb5643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d476dd09525c7229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Схемы проектов/Drawing 2025-02-02 18.47.06.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-02-02 18.47.06.excalidraw"
+            }
+          },
+          {
+            "id": "408562a26e0f83b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "5c18cafcac4471bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89c618b535355d1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7eca32e67810d5ff",
+  "lastOpenFiles": [
+    "Книги/Высоконагруженные приложения/Высоконагруженные системы.md",
+    "Images/Pasted image 20250201180147.png",
+    "Images",
+    "Images/Pasted image 20250202115102.png",
+    "Книги/Практика реактивного программирования в Spring 5.md",
+    "git.ignore",
+    "Текстовый документ.txt",
+    "Project Schemes/Drawing 2025-02-09 15.26.13.excalidraw.md",
+    "Notes.md",
+    "Project Schemes/Drawing 2025-02-01 19.20.54.excalidraw.md",
+    "Project Schemes/Drawing 2025-02-02 19.51.51.excalidraw.md",
+    "Project Schemes/Drawing 2025-02-02 18.47.06.excalidraw.md",
+    "Схемы проектов/Untitled.md",
+    "Project Schemes/Drawing 2025-02-02 21.23.03.excalidraw.md",
+    "Excalidraw/Exceptions.md",
+    "Reactive/Модель планирования потоков выполнения в Reactor.md",
+    "Reactive/Жизненный цикл реактивных потоков.md",
+    "Книги/Высоконагруженные приложения/Drawing 2025-01-25 19.34.24.excalidraw.md",
+    "Reactive",
+    "Project Schemes/Drawing 2025-02-01 19.20.54.excalidraw.png",
+    "System Design/DDD.md",
+    "System Design/Шардирование.md",
+    "System Design/Untitled",
+    "System Design/Партиционирование.md",
+    "System Design/CAS теорема.md",
+    "System Design/API Gateway.md",
+    "System Design/Подсчет размера бд.md",
+    "System Design",
+    "Untitled.md",
+    "Схемы проектов/Drawing 2025-01-25 19.26.03.excalidraw.md",
+    "Книги/Untitled 1.md",
+    "Книги/Высоконагруженные приложения",
+    "Книги/Untitled.md",
+    "Project Schemes",
+    "Книги",
+    "Algs/Задачи с деревьями и графами.md",
+    "Algs",
+    "Base/Concurrency.md",
+    "Untitled.canvas"
+  ]
+}

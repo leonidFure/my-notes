@@ -1,0 +1,14 @@
+Happens before
+Slave DB
+
+На более низком уровне подобные проблемы тоже возможны, они более очевидны, так что их проще разобрать. Это хорошо отражено в книге "Чистая архитектура" https://books.google.ru/books/about/%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%98%D1%81.html?id=d6JSDwAAQBAJ&source=kp_book_description&redir_esc=y
+А чтобы перенести эти принципы на уровень выше и применять к архитектуре микросервисных систем стоит глубоко изучить подход Domain driven design, например, по книге Эрика Эванса 
+https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/
+
+
+- Service Discovery
+
+тэги в редисе
+key based
+
+Token Bucket (официальный Spring Cloud RateLimiter)
