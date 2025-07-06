@@ -1,4 +1,4 @@
-Иерархия исключений: [[Excalidraw/Exceptions|Exceptions]]
+Иерархия исключений: [[Exceptions 1|Exceptions 1]]
 ## Throwable
 Конструкторы:
 - `Throwable();`
