@@ -65,3 +65,7 @@ public void increment() {
 - Exchanger
 - CyclicBarrier
 - Phaser
+==TODO тут нужно сделать подблоки и подбробнее рассмотреть все эти темы.==
+==Нужные источники:==
+- ==Concurrency in Action==
+- ==Видео от тинька на эту тему==
